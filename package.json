@@ -1,5 +1,5 @@
 {
-	"homepage": "https://RaivF.github.io/toha-game",
+	"homepage": "https://RaivF.github.io/game-2048",
 	"devDependencies": {
 		"css-loader": "^7.1.1",
 		"html-webpack-plugin": "^5.6.0",
